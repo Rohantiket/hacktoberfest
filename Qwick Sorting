@@ -53,3 +53,5 @@ public class Main
 		//QwickSort(arr,0,n-1);
 		//printAll(arr,0,n);
 		System.out.println(QwickSelect(arr,0,n-1,k-1));
+		}
+		}
