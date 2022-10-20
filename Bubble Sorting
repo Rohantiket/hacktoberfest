@@ -20,3 +20,5 @@ System.out.println("Printing Sorted List ...");
     {  
         System.out.print(a[i]+" ");  
     }  
+}
+}
